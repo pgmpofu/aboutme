@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Patience Mpofu</string>
+    <string name="yellow_star">yellow_star_string_resource</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done_button">Done</string>
+</resources>
